@@ -23,6 +23,21 @@ module.exports = () => {
         template: './index.html',
         title: 'Webpack Plugin',
       }),
+      new InjectManifest({
+        swSrc: './srcd-sw.js',
+        swDest: 'src-sw.js',
+      }),
+      new WebpackPwaManifest({
+        name: 'Just Another Text Editor',
+        short_name:'JATE',
+        description: 'Text Editor App, PWA',
+        background_color: '#ffffff',
+        start_url: "/",
+        publicPath: "/",
+        icons: [
+          
+        ]
+      })
     ],
 
     module: {
