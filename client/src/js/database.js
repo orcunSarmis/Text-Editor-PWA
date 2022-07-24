@@ -40,7 +40,7 @@ export const getDb = async () => {
   // Create a connection to the database database and version we want to use.
   const jateDb = await openDB('jate', 1);
 
-  const jateDB = tx = jateDb.transaction('jate', 'readonly');
+  const tx = jateDb.transaction('jate', 'readonly');
 
   const store = tx.objectStore('jate');
 
