@@ -36,6 +36,8 @@
   To install necessary dependencies, run the following command:
   
   Be sure your package.json files have been appropriately copied over, then enter ```npm i``` to install dependencies. Open your terminal in the root directory of this   project and the enter ```npm``` run start command to start up the backend and serve the client.
+  
+  When this command is entered, the html, css, and javascript files will be bundled     using webpack, along with a service worker and manifest file.
 
   ## Tests
 
@@ -49,6 +51,6 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at When this command is entered, the html, css, and javascript files will be bundled     using webpack, along with a service worker and manifest file. You can find more of my work at [orcunSarmis](https://github.com/orcunSarmis/).
+  If you have any questions about the repo, open an issue or contact me directly at yorcunsarmis@gmail.com You can find more of my work at [orcunSarmis]                 (https://github.com/orcunSarmis/).
 
 
