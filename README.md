@@ -29,7 +29,7 @@
 
   ## Contributing
 
-  Ideas to improve this application are welcome, [email](yorcunsarmis@gmail.com) me please.
+  Ideas to improve this application are welcome, email me at yorcunsarmis@gmail.com please.
 
   ## Installation
 
