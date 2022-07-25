@@ -29,7 +29,7 @@
 
   ## Contributing
 
-  Ideas to improve this application are welcome, email me please.
+  Ideas to improve this application are welcome, [email](yorcunsarmis@gmail.com) me please.
 
   ## Installation
 
@@ -49,6 +49,6 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at When this command is entered, the html, css, and javascript files will be bundled     using webpack, along with a service worker and manifest file.. You can find more of my work at [orcunSarmis](https://github.com/orcunSarmis/).
+  If you have any questions about the repo, open an issue or contact me directly at When this command is entered, the html, css, and javascript files will be bundled     using webpack, along with a service worker and manifest file. You can find more of my work at [orcunSarmis](https://github.com/orcunSarmis/).
 
 
